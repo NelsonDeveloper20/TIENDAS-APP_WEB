@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Splash" parent="Theme.AppCompat.Light">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+      <!--  <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>-->
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorAccent</item>
+
+    </style>
+
+    <style name="Login" parent="Theme.AppCompat.Light">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+     <item name="colorPrimary">@color/colorAccent</item>
+    <item name="android:textColorPrimary"></item>
+    <item name="colorPrimaryDark">@color/colorAccent</item>
+    <item name="colorAccent">@color/colorAmbar</item>
+        <item name="android:navigationBarColor">@color/colorAccent</item>
+</style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorSecondary">@color/colorAmbar</item>
+        <item name="android:navigationBarColor">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.Carrito">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorSecondary">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorAmbar</item>
+        <item name="android:statusBarColor">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+    </style>
+    <style name="AppTheme.Meta">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColorSecondary">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorAmbar</item>
+        <item name="android:statusBarColor">@color/colorAccent</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+    </style>
+
+
+</resources>

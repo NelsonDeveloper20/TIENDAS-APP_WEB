@@ -1,0 +1,409 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.delcorp.apptiendadelcorp"
+4    android:versionCode="30"
+5    android:versionName="1.0.30" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+11-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:5:5-76
+11-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:5:22-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:8:5-81
+14-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:9:5-80
+15-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:9:22-77
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:11:5-79
+17-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+18-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:12:5-95
+18-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:12:22-92
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:5-68
+19-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:22-65
+20    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+20-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:26:5-110
+20-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:26:22-107
+21    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+21-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:26:5-82
+21-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:26:22-79
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:28:9-32
+26
+27    <application
+27-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:14:5-112:19
+28        android:allowBackup="true"
+28-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:15:9-35
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_xmarket"
+30-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:16:9-42
+31        android:label="@string/app_name"
+31-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:17:9-41
+32        android:supportsRtl="true"
+32-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:18:9-35
+33        android:theme="@style/AppTheme" >
+33-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:19:9-40
+34        <meta-data
+34-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:20:9-22:71
+35            android:name="com.google.android.geo.API_KEY"
+35-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:21:13-58
+36            android:value="AIzaSyDks-6gRkW_AgFB_c_FqdZDz-c9AB6w4YM" />
+36-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:22:13-68
+37
+38        <activity android:name="com.delcorp.apptiendadelcorp.activity.Location_Cliente" />
+38-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:23:9-72
+38-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:23:19-60
+39        <activity android:name="com.delcorp.apptiendadelcorp.activity.location" />
+39-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:24:9-55
+39-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:24:19-52
+40        <activity android:name="com.delcorp.apptiendadelcorp.activity.MainVendedor" />
+40-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:25:9-59
+40-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:25:19-56
+41        <activity
+41-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:26:9-30:52
+42            android:name="com.delcorp.apptiendadelcorp.activity.ContactoActivity"
+42-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:27:13-54
+43            android:configChanges="keyboardHidden|orientation"
+43-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:28:13-63
+44            android:screenOrientation="portrait"
+44-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:29:13-49
+45            android:theme="@style/AppTheme.Meta" />
+45-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:30:13-49
+46        <activity
+46-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:31:9-35:52
+47            android:name="com.delcorp.apptiendadelcorp.activity.AvanceDiarioActivity"
+47-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:32:13-58
+48            android:configChanges="keyboardHidden|orientation"
+48-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:33:13-63
+49            android:screenOrientation="portrait"
+49-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:34:13-49
+50            android:theme="@style/AppTheme.Meta" />
+50-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:35:13-49
+51        <activity
+51-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:36:9-39:44
+52            android:name="com.delcorp.apptiendadelcorp.RegistroUserActivity"
+52-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:37:13-49
+53            android:screenOrientation="portrait"
+53-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:38:13-49
+54            android:theme="@style/Login" />
+54-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:39:13-41
+55        <activity
+55-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:40:9-44:55
+56            android:name="com.delcorp.apptiendadelcorp.activity.ReporteSugeridoMenorActivity"
+56-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:41:13-66
+57            android:configChanges="keyboardHidden|orientation"
+57-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:42:13-63
+58            android:screenOrientation="portrait"
+58-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:43:13-49
+59            android:theme="@style/AppTheme.Carrito" />
+59-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:44:13-52
+60        <activity
+60-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:45:9-50:55
+61            android:name="com.delcorp.apptiendadelcorp.activity.ListaPromocionesActivity"
+61-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:46:13-62
+62            android:configChanges="keyboardHidden|orientation"
+62-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:47:13-63
+63            android:screenOrientation="portrait"
+63-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:48:13-49
+64            android:theme="@style/AppTheme.Carrito"
+64-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:49:13-52
+65            android:windowSoftInputMode="adjustPan" />
+65-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:50:13-52
+66        <activity
+66-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:51:9-55:54
+67            android:name="com.delcorp.apptiendadelcorp.activity.FullPromoActivity"
+67-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:52:13-55
+68            android:configChanges="orientation|keyboardHidden|screenSize"
+68-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:53:13-74
+69            android:label="@string/title_activity_full_promo"
+69-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:54:13-62
+70            android:theme="@style/FullscreenTheme" />
+70-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:55:13-51
+71        <activity
+71-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:56:9-60:55
+72            android:name="com.delcorp.apptiendadelcorp.activity.DetalleListaPedidoActivity"
+72-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:57:13-64
+73            android:configChanges="keyboardHidden|orientation"
+73-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:58:13-63
+74            android:screenOrientation="portrait"
+74-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:59:13-49
+75            android:theme="@style/AppTheme.Carrito" />
+75-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:60:13-52
+76        <activity android:name="com.delcorp.apptiendadelcorp.activity.MetaMensualDialogActivity" />
+76-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:61:9-72
+76-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:61:19-69
+77        <activity
+77-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:62:9-66:52
+78            android:name="com.delcorp.apptiendadelcorp.activity.MetaMensualActivity"
+78-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:63:13-57
+79            android:configChanges="keyboardHidden|orientation"
+79-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:64:13-63
+80            android:screenOrientation="portrait"
+80-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:65:13-49
+81            android:theme="@style/AppTheme.Meta" />
+81-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:66:13-49
+82
+83        <service android:name="com.delcorp.apptiendadelcorp.service.MyFirebaseMessagingService" >
+83-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:68:9-72:19
+83-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:68:18-68
+84            <intent-filter>
+84-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:69:13-71:29
+85                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+85-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:70:17-78
+85-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:70:25-75
+86            </intent-filter>
+87        </service>
+88
+89        <activity
+89-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:74:9-78:55
+90            android:name="com.delcorp.apptiendadelcorp.activity.ListaPedidosActivity"
+90-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:75:13-58
+91            android:configChanges="keyboardHidden|orientation"
+91-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:76:13-63
+92            android:screenOrientation="portrait"
+92-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:77:13-49
+93            android:theme="@style/AppTheme.Carrito" />
+93-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:78:13-52
+94        <activity android:name="com.delcorp.apptiendadelcorp.activity.DetalleClienteActivity" />
+94-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:79:9-69
+94-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:79:19-66
+95        <activity
+95-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:80:9-85:55
+96            android:name="com.delcorp.apptiendadelcorp.activity.ListaClienteActivity"
+96-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:81:13-58
+97            android:configChanges="keyboardHidden|orientation"
+97-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:82:13-63
+98            android:screenOrientation="portrait"
+98-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:83:13-49
+99            android:theme="@style/AppTheme.Carrito"
+99-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:84:13-52
+100            android:windowSoftInputMode="adjustPan" />
+100-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:85:13-52
+101        <activity
+101-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:86:9-90:55
+102            android:name="com.delcorp.apptiendadelcorp.activity.CartActivity"
+102-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:87:13-50
+103            android:configChanges="keyboardHidden|orientation"
+103-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:88:13-63
+104            android:screenOrientation="portrait"
+104-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:89:13-49
+105            android:theme="@style/AppTheme.Carrito" />
+105-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:90:13-52
+106        <activity
+106-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:91:9-94:44
+107            android:name="com.delcorp.apptiendadelcorp.activity.LoginActivity"
+107-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:92:13-51
+108            android:screenOrientation="portrait"
+108-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:93:13-49
+109            android:theme="@style/Login" />
+109-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:94:13-41
+110        <activity
+110-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:95:9-105:20
+111            android:name="com.delcorp.apptiendadelcorp.activity.SplashActivity"
+111-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:96:13-52
+112            android:configChanges="keyboardHidden|orientation"
+112-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:97:13-63
+113            android:screenOrientation="portrait"
+113-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:98:13-49
+114            android:theme="@style/Splash" >
+114-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:99:13-42
+115            <intent-filter>
+115-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:100:13-104:29
+116                <action android:name="android.intent.action.MAIN" />
+116-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:101:17-69
+116-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:101:25-66
+117
+118                <category android:name="android.intent.category.LAUNCHER" />
+118-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:103:17-77
+118-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:103:27-74
+119            </intent-filter>
+120        </activity>
+121
+122        <activitye
+122-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:106:9-111:59
+123            android:name=".activity.MainActivity"
+123-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:107:13-50
+124            android:configChanges="keyboardHidden|orientation"
+124-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:108:13-63
+125            android:label="@string/app_name"
+125-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:109:13-45
+126            android:screenOrientation="portrait"
+126-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:110:13-49
+127            android:theme="@style/AppTheme.NoActionBar" />
+127-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:111:13-56
+128        <!--
+129             FirebaseMessagingService performs security checks at runtime,
+130             no need for explicit permissions despite exported="true"
+131        -->
+132        <service
+132-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:28:9-34:19
+133            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+133-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:29:13-82
+134            android:exported="true" >
+134-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:30:13-36
+135            <intent-filter android:priority="-500" >
+135-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:69:13-71:29
+136                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+136-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:70:17-78
+136-->C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:70:25-75
+137            </intent-filter>
+138        </service>
+139        <service
+139-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:27:9-31:19
+140            android:name="com.google.firebase.components.ComponentDiscoveryService"
+140-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:27:18-89
+141            android:exported="false" >
+141-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:31:13-37
+142            <meta-data
+142-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:28:13-30:85
+143                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+143-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:29:17-139
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:30:17-82
+145            <meta-data
+145-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:32:13-34:85
+146                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+146-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:33:17-96
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:34:17-82
+148        </service>
+149
+150        <receiver
+150-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:29:9-33:20
+151            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+151-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:30:13-85
+152            android:enabled="true"
+152-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:31:13-35
+153            android:exported="false" >
+153-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:32:13-37
+154        </receiver>
+155        <receiver
+155-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:34:9-42:20
+156            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+156-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:35:13-100
+157            android:enabled="true"
+157-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:36:13-35
+158            android:exported="true"
+158-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:37:13-36
+159            android:permission="android.permission.INSTALL_PACKAGES" >
+159-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:38:13-69
+160            <intent-filter>
+160-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:39:13-41:29
+161                <action android:name="com.android.vending.INSTALL_REFERRER" />
+161-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:40:17-79
+161-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:40:25-76
+162            </intent-filter>
+163        </receiver>
+164
+165        <service
+165-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:44:9-47:40
+166            android:name="com.google.android.gms.measurement.AppMeasurementService"
+166-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:45:13-84
+167            android:enabled="true"
+167-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:46:13-35
+168            android:exported="false" />
+168-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:47:13-37
+169        <service
+169-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:48:9-52:72
+170            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+170-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:49:13-87
+171            android:enabled="true"
+171-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:50:13-35
+172            android:exported="false"
+172-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:51:13-37
+173            android:permission="android.permission.BIND_JOB_SERVICE" />
+173-->[com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:52:13-69
+174
+175        <receiver
+175-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:37:9-44:20
+176            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+176-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:38:13-78
+177            android:exported="true"
+177-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:39:13-36
+178            android:permission="com.google.android.c2dm.permission.SEND" >
+178-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:40:13-73
+179            <intent-filter>
+179-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:41:13-43:29
+180                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+180-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:42:17-81
+180-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:42:25-78
+181            </intent-filter>
+182        </receiver>
+183        <!--
+184             FirebaseInstanceIdService performs security checks at runtime,
+185             no need for explicit permissions despite exported="true"
+186        -->
+187        <service
+187-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:50:9-56:19
+188            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+188-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:51:13-77
+189            android:exported="true" >
+189-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:52:13-36
+190            <intent-filter android:priority="-500" >
+190-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:53:13-55:29
+190-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:53:28-51
+191                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+191-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:54:17-80
+191-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:54:25-77
+192            </intent-filter>
+193        </service>
+194
+195        <provider
+195-->[com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+196            android:name="com.google.firebase.provider.FirebaseInitProvider"
+196-->[com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+197            android:authorities="com.delcorp.apptiendadelcorp.firebaseinitprovider"
+197-->[com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+198            android:exported="false"
+198-->[com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+199            android:initOrder="100" />
+199-->[com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+200
+201        <activity
+201-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+202            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+202-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+203            android:exported="false"
+203-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+204            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+204-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+205
+206        <meta-data
+206-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+207            android:name="com.google.android.gms.version"
+207-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+208            android:value="@integer/google_play_services_version" />
+208-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+209
+210        <provider
+210-->[com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+211            android:name="com.squareup.picasso.PicassoProvider"
+211-->[com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:9:13-64
+212            android:authorities="com.delcorp.apptiendadelcorp.com.squareup.picasso"
+212-->[com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:10:13-72
+213            android:exported="false" />
+213-->[com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:11:13-37
+214    </application>
+215
+216</manifest>

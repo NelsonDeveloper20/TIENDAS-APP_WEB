@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\desarrollador1\\Videos\\ARCHIVOS_DESCARGA\\X MARKET\\X MARKET\\proyecto\\AppTiendaDelcorp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\desarrollador1\\Videos\\ARCHIVOS_DESCARGA\\X MARKET\\X MARKET\\proyecto\\AppTiendaDelcorp\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "28,35,23,14,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1098,1472,870,486,112",
+                        "endLines": "34,41,27,21,12",
+                        "endColumns": "12,12,12,8,12",
+                        "endOffsets": "1466,1838,1092,862,478"
+                    },
+                    "to": {
+                        "startLines": "2,9,16,21,29",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "100,465,828,1051,1419",
+                        "endLines": "8,15,20,28,35",
+                        "endColumns": "12,12,12,8,12",
+                        "endOffsets": "460,823,1046,1414,1779"
+                    }
+                }
+            ]
+        }
+    ]
+}

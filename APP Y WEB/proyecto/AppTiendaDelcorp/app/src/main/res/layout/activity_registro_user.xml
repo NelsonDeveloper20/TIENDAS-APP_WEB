@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    android:layout_height="match_parent"
+    tools:context=".RegistroUserActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_weight="4"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="90dp"
+                android:layout_gravity="center"
+                android:padding="10dp"
+                android:src="@drawable/xmarketdelcorp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="0.5"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="10dp"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorAmbar"
+                    android:textStyle="bold"
+                    android:textSize="17dp"
+                    android:gravity="center"
+                    android:text="Ingrese datos completos del Cliente"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="10dp"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/txtNombres"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:inputType="text"
+                    android:textCursorDrawable="@null"
+                    android:textColorHint="@color/colorAmbar"
+                    android:background="@drawable/roundededittext"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_height="wrap_content"
+                    android:hint="Ingrese sus Nombres" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:paddingRight="2dp"
+                    android:layout_height="wrap_content">
+
+
+                <EditText
+                    android:id="@+id/txtPaterno"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:inputType="text"
+                    android:layout_weight="1"
+                    android:textColorHint="@color/colorAmbar"
+                    android:background="@drawable/roundededittext"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_height="wrap_content"
+                    android:hint="Apellido paterno" />
+            </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:paddingLeft="2dp"
+                    android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/txtMaterno"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:inputType="text"
+                    android:layout_weight="1"
+                    android:textColorHint="@color/colorAmbar"
+                    android:background="@drawable/roundededittext"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_height="wrap_content"
+                    android:hint="Apellido materno" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:paddingRight="2dp"
+                    android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/txtCelular"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:inputType="phone"
+                    android:layout_weight="1"
+                    android:textColorHint="@color/colorAmbar"
+                    android:background="@drawable/roundededittext"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_height="wrap_content"
+                    android:hint="Celular" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:paddingLeft="2dp"
+                    android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/txtTelefono"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:inputType="phone"
+                    android:layout_weight="1"
+                    android:textColorHint="@color/colorAmbar"
+                    android:background="@drawable/roundededittext"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_height="wrap_content"
+                    android:hint="Telefono" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:paddingHorizontal="10dp"
+            android:paddingBottom="10dp"
+                android:orientation="horizontal"
+            android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:paddingRight="2dp"
+                    android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/txtDni"
+                android:padding="10dp"
+                android:maxLines="1"
+                android:inputType="number"
+                android:layout_weight="1"
+                android:textColorHint="@color/colorAmbar"
+                android:background="@drawable/roundededittext"
+                android:layout_width="match_parent"
+                android:textColor="@color/colorAmbar"
+                android:layout_height="wrap_content"
+                android:hint="Numero de dni" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:paddingLeft="2dp"
+                    android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/txtRuc"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:inputType="number"
+                    android:layout_weight="1"
+                    android:textColorHint="@color/colorAmbar"
+                    android:background="@drawable/roundededittext"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_height="wrap_content"
+                    android:hint="Numero de Ruc" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="10dp"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/txtRazon"
+                    android:padding="10dp"
+                    android:maxLines="1"
+                    android:inputType="text"
+                    android:textColorHint="@color/colorAmbar"
+                    android:background="@drawable/roundededittext"
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_height="wrap_content"
+                    android:hint="Razon social" />
+            </LinearLayout>
+
+<!-- INICIO-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:paddingRight="2dp"
+                    android:layout_height="wrap_content">
+                <EditText
+                android:id="@+id/txtDireccion"
+                android:padding="10dp"
+                    android:maxLines="5"
+                    android:inputType="textMultiLine"
+                    android:enabled="false"
+                android:textColorHint="@color/colorAmbar"
+                android:background="@drawable/roundededittext"
+                android:layout_width="match_parent"
+                android:textColor="@color/colorAmbar"
+                android:drawableLeft="@drawable/ic_location_on_black_24dp"
+                android:layout_height="wrap_content"
+                android:hint="Direccion" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="170dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageButton
+                        android:id="@+id/Btnfabmapa"
+                        android:layout_width="90dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/button_round"
+                        android:contentDescription="Seleccionar"
+                        android:scaleType="fitStart"
+                        android:src="@drawable/location"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.0"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingHorizontal="10dp"
+                android:paddingBottom="10dp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/TxtReferencia"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="75dp"
+                    android:autoSizeTextType="uniform"
+                    android:background="@drawable/roundededittext"
+                    android:hint="Referencia"
+
+                    android:inputType="textMultiLine"
+                    android:maxLines="5"
+                    android:padding="10dp"
+                    android:scrollbars="vertical"
+                    android:textColor="@color/colorAmbar"
+                    android:textColorHint="@color/colorAmbar" />
+            </LinearLayout>
+
+            <!--  END -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="15dp"
+                android:paddingTop="15dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content">
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        app:cardUseCompatPadding="true"
+                        app:cardElevation="3dp"
+                        android:id="@+id/btnRegistro"
+                        app:cardBackgroundColor="@color/colorAmbar"
+                        android:clickable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:cardCornerRadius="10dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:padding="10dp"
+                            android:textStyle="bold"
+                            android:textSize="20dp"
+                            android:textColor="@color/colorAccent"
+                            android:text="Registrar"/>
+                    </android.support.v7.widget.CardView>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content">
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        app:cardUseCompatPadding="true"
+                        app:cardElevation="3dp"
+                        app:cardBackgroundColor="@color/colorAmbar"
+                        android:id="@+id/btnCancelar"
+                        android:clickable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:cardCornerRadius="10dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:padding="10dp"
+                            android:textStyle="bold"
+                            android:textSize="20dp"
+                            android:textColor="@color/colorAccent"
+                            android:text="Cancelar"/>
+                    </android.support.v7.widget.CardView>
+                </LinearLayout>
+            </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/TxtLongitud"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="36dp"
+                    android:text="Longitud :"
+                    android:textColor="#F78701"
+                    android:textSize="18sp"
+                    android:visibility="gone"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:ignore="MissingConstraints"/>
+
+                <TextView
+                    android:id="@+id/TxtLatitud"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="40dp"
+                    android:text="Latitud :"
+                    android:visibility="gone"
+                    android:textColor="#F78701"
+                    android:textSize="18sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

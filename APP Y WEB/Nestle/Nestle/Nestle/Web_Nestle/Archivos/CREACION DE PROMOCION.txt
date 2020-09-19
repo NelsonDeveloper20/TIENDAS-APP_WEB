@@ -1,0 +1,4 @@
+promocion por categoria
+----------
+1.- concidicion siempre moneda
+2.- no importa la cantidad =0

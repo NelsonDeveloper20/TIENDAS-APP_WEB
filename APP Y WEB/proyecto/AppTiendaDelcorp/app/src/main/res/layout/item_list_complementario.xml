@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        app:contentPaddingBottom="5dp"
+        app:contentPaddingTop="5dp"
+        android:id="@+id/cardtodo"
+        android:visibility="visible"
+        app:cardElevation="1dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:background="@color/colorAccent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_weight="0.5"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/txtNombreCliente"
+                        android:paddingVertical="1dp"
+                        android:textSize="13dp"
+                        android:textColor="@color/colorAmbar"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:text="Carlos Enrique Peña Calderon"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/txtMontoSugerido"
+                        android:paddingVertical="1dp"
+                        android:textSize="11dp"
+                        android:textColor="@color/colorAmbar"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:text="Monto Sugerido : S/.20.00"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/txtMontoComprado"
+                        android:paddingVertical="1dp"
+                        android:textSize="11dp"
+                        android:textColor="@color/colorAmbar"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:text="Monto Comprado : S/. 15.00"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/txtDiferencia"
+                        android:paddingVertical="1dp"
+                        android:textSize="11dp"
+                        android:textColor="@color/colorAmbar"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:text="Diferencia : S/. 5.00"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:layout_height="match_parent">
+                        <android.support.v7.widget.CardView
+                            android:layout_width="wrap_content"
+                            app:cardUseCompatPadding="true"
+                            app:contentPaddingTop="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="5dp"
+                            android:id="@+id/btnLlamar"
+                            app:contentPaddingBottom="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:clickable="true"
+                            app:cardElevation="3dp"
+                            app:contentPaddingRight="5dp"
+                            android:layout_gravity="center"
+                            app:contentPaddingLeft="5dp"
+                            app:cardBackgroundColor="@color/coloVerde"
+                            android:layout_height="wrap_content">
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingVertical="3dp"
+                                android:layout_gravity="center"
+                                android:tint="#ffff"
+                                android:src="@drawable/ic_call_black_24dp"/>
+                        </android.support.v7.widget.CardView>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_weight="1"
+                        android:layout_gravity="center"
+                        android:layout_height="match_parent">
+                        <android.support.v7.widget.CardView
+                            android:layout_width="wrap_content"
+                            app:cardUseCompatPadding="true"
+                            app:contentPaddingTop="5dp"
+                            android:layout_weight="1"
+                            app:cardCornerRadius="5dp"
+                            app:cardElevation="3dp"
+                            android:visibility="visible"
+                            android:id="@+id/btnCarrito"
+                            app:contentPaddingBottom="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:clickable="true"
+                            app:contentPaddingRight="5dp"
+                            android:layout_gravity="center"
+                            app:contentPaddingLeft="5dp"
+                            app:cardBackgroundColor="@color/colorAmarillo"
+                            android:layout_height="wrap_content">
+                            <ImageView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:tint="#ffff"
+                                android:paddingVertical="3dp"
+                                android:src="@drawable/ic_shopping_cart_black_24dp"/>
+                        </android.support.v7.widget.CardView>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

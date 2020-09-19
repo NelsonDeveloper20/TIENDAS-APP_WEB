@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activity.MainActivity"
+    android:orientation="vertical"
+    tools:showIn="@layout/app_bar_main"
+    android:fitsSystemWindows="true">
+
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.design.widget.AppBarLayout
+                android:id="@+id/appb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <android.support.v7.widget.Toolbar
+                        android:id="@+id/toolbar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:elevation="1dp"
+                        android:theme="@style/ColorBotonMenu"
+                        app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+                    <LinearLayout
+                        android:id="@+id/viewOne"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:id="@+id/linearpromo"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content" >
+
+                            <com.delcorp.apptiendadelcorp.util.AutoScrollViewPager
+                                android:id="@+id/viewPager"
+                                android:visibility="visible"
+                                android:layout_width="match_parent"
+                                android:layout_height="100dp">
+
+                            </com.delcorp.apptiendadelcorp.util.AutoScrollViewPager>
+                        </LinearLayout>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:orientation="horizontal"
+                            android:background="@color/colorAccent"
+                            android:layout_height="wrap_content">
+                            <EditText
+                                android:id="@+id/txtProducto"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="1.5"
+                                android:paddingVertical="1dp"
+                                android:paddingHorizontal="1dp"
+                                android:gravity="center"
+                                android:background="@color/colorAccent"
+                                android:hint="Buscar producto\n por codigo o nombre"
+                                android:textCursorDrawable="@drawable/cursor"
+                                android:scrollHorizontally="true"
+                                android:textSize="13dp"
+                                android:visibility="gone" />
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_weight="1"
+                                android:layout_height="match_parent"
+                                android:gravity="center">
+
+
+                                <android.support.design.widget.FloatingActionButton
+                                    android:id="@+id/fabbb"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="true"
+                                    android:visibility="gone"
+                                    android:padding="2dp"
+                                    android:src="@drawable/ic_home_black_24dp"
+                                    android:tint="@color/colorAccent"
+                                    app:backgroundTint="#429ADD"
+                                    app:elevation="0dp"
+                                    app:useCompatPadding="true"
+                                    app:fabSize="mini"
+                                    app:rippleColor="#067483" />
+
+                                <android.support.design.widget.FloatingActionButton
+                                    android:id="@+id/fabSug"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="true"
+                                    android:src="@drawable/ic_star_black_24dp"
+                                    android:tint="@color/colorAccent"
+                                    app:backgroundTint="#EED640"
+                                    app:elevation="0dp"
+                                    app:useCompatPadding="true"
+                                    app:fabSize="mini"
+                                    app:rippleColor="#067483" />
+
+                                <android.support.design.widget.FloatingActionButton
+                                    android:id="@+id/fabbus"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    app:useCompatPadding="true"
+                                    android:clickable="true"
+                                    android:src="@drawable/ic_search_black_24dp"
+                                    android:tint="@color/colorAccent"
+                                    app:backgroundTint="#006BBE"
+                                    app:elevation="0dp"
+                                    app:fabSize="mini"
+                                    app:rippleColor="#067483" />
+
+                                <RelativeLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content" >
+
+
+                                    <android.support.design.widget.FloatingActionButton
+                                        android:id="@+id/fabb"
+                                        android:layout_width="69dp"
+                                        android:layout_height="wrap_content"
+                                        android:clickable="true"
+                                        android:src="@drawable/ic_shopping_cart_black_24dp"
+                                        android:tint="@color/colorAccent"
+                                        app:backgroundTint="#03A9F4"
+                                        app:elevation="1dp"
+                                        app:fabSize="mini"
+                                        app:rippleColor="#00BCD4"
+                                        app:useCompatPadding="true"
+                                        tools:ignore="MissingConstraints" />
+
+                                    <TextView
+                                        android:id="@+id/txtCantidadPedido"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_alignEnd="@+id/fabb"
+                                        android:layout_alignRight="@+id/fabb"
+                                        android:layout_marginTop="7dp"
+                                        android:layout_marginEnd="2dp"
+                                        android:layout_marginRight="4dp"
+                                        android:background="@drawable/ballon"
+                                        android:elevation="7dp"
+                                        android:gravity="center"
+                                        android:scaleX="0.0"
+                                        android:scaleY="0.0"
+                                        android:textColor="@color/colorAccent"
+                                        android:textSize="12dp"
+                                        app:layout_constraintEnd_toEndOf="@+id/fabb"
+                                        app:layout_constraintTop_toTopOf="@+id/fabb"
+                                        tools:ignore="MissingConstraints"
+                                        tools:text="0" />
+
+                                </RelativeLayout>
+
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+
+            </android.support.design.widget.AppBarLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/colorAccent"
+                android:orientation="vertical">
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/MyRecycler"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1">
+
+                    </android.support.v7.widget.RecyclerView>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:id="@+id/linervacio"
+                        android:visibility="gone"
+                        android:orientation="vertical">
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/shopping"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:paddingVertical="10dp"
+                            android:paddingHorizontal="10dp"
+                            android:textSize="25dp"
+                            android:text="LA LISTA ESTA VACIA ,BUSQUE EN OTRA CATEGORÍA"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </android.support.design.widget.CoordinatorLayout>
+</LinearLayout>

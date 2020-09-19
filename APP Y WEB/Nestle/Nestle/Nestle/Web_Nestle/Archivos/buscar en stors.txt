@@ -1,0 +1,17 @@
+
+
+SELECT ROUTINE_NAME, ROUTINE_DEFINITION
+    FROM INFORMATION_SCHEMA.ROUTINES 
+    WHERE ROUTINE_DEFINITION LIKE '%@FlatLibre%' 
+    AND ROUTINE_TYPE='PROCEDURE'
+
+
+
+
+
+sp_helptext  SP_ModificarDetalleHoraroXIdPrue  ---no 
+sp_helptext SP_UP_ModificarHorarioTrabajador --no
+sp_helptext SP_ModificarDetalleHoraroXId --no
+sp_helptext InsertarCambioDeHorario  --no
+
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260510827878",
+    "firebase_url": "https://delcorptienda.firebaseio.com",
+    "project_id": "delcorptienda",
+    "storage_bucket": "delcorptienda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260510827878:android:b89e554ea18ba1bf",
+        "android_client_info": {
+          "package_name": "com.delcorp.apptiendadelcorp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260510827878-v36u2cm7rcfvacg8rp0l68l6neun3hcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delcorp.apptiendadelcorp",
+            "certificate_hash": "8c94964e95443ee2709a1f996d454636b92f7ec1"
+          }
+        },
+        {
+          "client_id": "260510827878-6hkvjhbq5vb9367siih3mtu1lgsioji2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpEHvy1v2RftHEKgXMiVjo08BtYS_01E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260510827878-6hkvjhbq5vb9367siih3mtu1lgsioji2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

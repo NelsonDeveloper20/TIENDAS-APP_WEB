@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        app:contentPaddingBottom="10dp"
+        app:contentPaddingTop="10dp"
+        android:id="@+id/cardtodo"
+        android:visibility="visible"
+        app:cardElevation="5dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:background="@color/colorAccent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/txtDescripcion"
+                    android:paddingVertical="2dp"
+                    android:layout_weight="0.2"
+                    android:textSize="14dp"
+                    android:textColor="@color/colorAmbar"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:text="Descripcion del producto"/>
+
+                     <android.support.v7.widget.CardView
+                         android:layout_width="wrap_content"
+                         app:cardUseCompatPadding="true"
+                         app:contentPaddingTop="5dp"
+                         app:cardCornerRadius="5dp"
+                         android:visibility="visible"
+                         android:id="@+id/btnOk"
+                         app:contentPaddingBottom="5dp"
+                         android:foreground="?android:attr/selectableItemBackground"
+                         android:clickable="true"
+                         app:contentPaddingRight="5dp"
+                         app:contentPaddingLeft="5dp"
+                         app:cardBackgroundColor="@color/coloVerde"
+                         android:layout_height="wrap_content">
+                         <ImageView
+                             android:layout_width="match_parent"
+                             android:layout_height="match_parent"
+                             android:tint="#ffff"
+                             android:src="@drawable/ic_add_black_24dp"/>
+                     </android.support.v7.widget.CardView>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+</LinearLayout>

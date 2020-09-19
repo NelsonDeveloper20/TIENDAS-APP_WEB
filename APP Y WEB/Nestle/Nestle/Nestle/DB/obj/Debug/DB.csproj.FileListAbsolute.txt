@@ -1,0 +1,15 @@
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\DB\bin\Debug\DB.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\DB\bin\Debug\DB.pdb
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\DB\obj\Debug\DB.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\DB\obj\Debug\DB.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\DB\bin\Debug\DB.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\DB\bin\Debug\DB.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\DB\obj\Debug\DB.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\DB\obj\Debug\DB.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\DB\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\DB\bin\Debug\DB.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\DB\bin\Debug\DB.pdb
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\DB\obj\Debug\DB.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\DB\obj\Debug\DB.pdb

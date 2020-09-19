@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#F0F0F0"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.AvanceDiarioActivity">
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:padding="5dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:id="@+id/imgAtras"
+                        android:background="?selectableItemBackgroundBorderless"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/ic_arrow_back_black_24dp"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="0.2"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:gravity="center"
+                        android:id="@+id/txtTitulo"
+                        android:text="Reporte de Eficiencia"
+                        android:textSize="19dp"
+                        android:textColor="@color/coloNegro"
+                        android:layout_height="match_parent"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:gravity="center"
+                        android:id="@+id/txtVendedor"
+                        android:text="Reporte de Eficiencia"
+                        android:textSize="15dp"
+                        android:textColor="#747474"
+                        android:layout_height="match_parent"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_weight="1"
+                    android:layout_height="match_parent">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:background="?selectableItemBackgroundBorderless"
+                        android:id="@+id/btnRefres"
+                        android:src="@drawable/ic_refresh_black_24dp"
+                        android:layout_height="match_parent" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:layout_height="match_parent">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:paddingBottom="15dp"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:background="@drawable/cuadrada"
+                    android:orientation="vertical"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingVertical="5dp"
+                        android:paddingHorizontal="15dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Total Clientes"
+                            android:textSize="17dp"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:text="0"
+                            android:textSize="17dp"
+                            android:id="@+id/txtTotalClientes"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingVertical="5dp"
+                        android:paddingHorizontal="15dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Cliente Visitados"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:id="@+id/txtClienteVisitado"
+                            android:textSize="17dp"
+                            android:text="0"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingHorizontal="15dp"
+                        android:paddingVertical="5dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Clientes con Pedido"
+                            android:layout_gravity="center|left"
+                            android:textSize="17dp"
+                            android:gravity="center"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:id="@+id/txtClienteConPedido"
+                            android:textSize="17dp"
+                            android:text="0"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingHorizontal="15dp"
+                        android:paddingVertical="5dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Total Pedidos(Vendedor)"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:id="@+id/txtPedidosVendedor"
+                            android:textSize="17dp"
+                            android:text="0"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingHorizontal="15dp"
+                        android:paddingVertical="5dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Total Pedido(Bodega)"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:id="@+id/txtPedidoBodega"
+                            android:textSize="17dp"
+                            android:text="0"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingHorizontal="15dp"
+                        android:paddingVertical="5dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Avance Visita Ruta"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:id="@+id/txtAvanceRuta"
+                            android:textSize="17dp"
+                            android:text="0"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingHorizontal="15dp"
+                        android:paddingVertical="5dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Monto Total Venta"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:textSize="17dp"
+                            android:id="@+id/txtMontoTotalVenta"
+                            android:text="0"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingHorizontal="15dp"
+                        android:paddingVertical="5dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Cantidad Total Items"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:gravity="center|right"
+                            android:textSize="17dp"
+                            android:id="@+id/txtCantidadTotalItem"
+                            android:text="0"
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="#C9C9C9" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="horizontal"
+                        android:paddingHorizontal="15dp"
+                        android:paddingVertical="5dp"
+                        android:layout_height="match_parent">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:textColor="@color/colorAmbar"
+                            android:text="Ultimo Pedido"
+                            android:layout_gravity="center|left"
+                            android:gravity="center"
+                            android:textSize="17dp"
+                            android:layout_height="wrap_content" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:textSize="17dp"
+                            android:layout_gravity="center"
+                            android:id="@+id/txtUltimoPedido"
+                            android:gravity="center"
+                            android:text=" "
+                            android:layout_height="wrap_content" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

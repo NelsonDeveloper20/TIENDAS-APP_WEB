@@ -1,0 +1,240 @@
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\ApplicationInsights.config
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\csc.exe
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\vbc.exe
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.dll.config
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.pdb
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\DB.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\DB.pdb
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\AjaxControlToolkit.pdb
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\ApplicationInsights.config
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\csc.exe
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\vbc.exe
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\VBCSCompiler.exe
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.dll.config
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\DB.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Web.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Security.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Owin.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.Helpers.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.Mvc.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.Razor.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\DB.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Web.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Security.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.Helpers.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.Mvc.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.Razor.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.dll
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.pdb
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.csprojAssemblyReference.cache
+C:\Users\Desarrollador\Videos\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.csproj.CopyComplete
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Security.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Newtonsoft.Json.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Owin.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.Helpers.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.Mvc.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.Razor.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Razor.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Security.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\Newtonsoft.Json.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.Helpers.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.Mvc.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.Razor.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Razor.xml
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Desarrollador\Desktop\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.csprojResolveAssemblyReference.cache
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\ApplicationInsights.config
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\csc.exe
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\vbc.exe
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\VBCSCompiler.exe
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.dll.config
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Web_Nestle.pdb
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\DB.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Web.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.ApplicationInsights.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Security.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Newtonsoft.Json.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Owin.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.Helpers.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.Mvc.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.Razor.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Razor.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\DB.pdb
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\AjaxControlToolkit.pdb
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.Web.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.ApplicationInsights.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Microsoft.Owin.Security.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\Newtonsoft.Json.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.Helpers.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.Mvc.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.Razor.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\System.Web.WebPages.Razor.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.csprojAssemblyReference.cache
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.csproj.CopyComplete
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\Nestle\Nestle\Nestle\Web_Nestle\obj\Debug\Web_Nestle.pdb

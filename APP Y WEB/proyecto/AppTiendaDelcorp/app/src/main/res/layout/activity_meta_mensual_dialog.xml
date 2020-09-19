@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".activity.MetaMensualDialogActivity">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/card"
+                android:scaleX="1"
+                android:scaleY="1"
+                android:layout_gravity="center"
+                app:cardUseCompatPadding="true"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="15dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:paddingTop="10dp"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:textSize="18dp"
+                        android:textColor="@color/coloNegro"
+                        android:text="Meta Mensual !"/>
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:gravity="center"
+                        android:layout_height="wrap_content">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:gravity="center"
+                            android:layout_gravity="center"
+                            android:layout_height="match_parent">
+                            <com.hookedonplay.decoviewlib.DecoView
+                                android:id="@+id/arcView2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="192dp" />
+                            <TextView
+                                android:id="@+id/txtPor"
+                                android:textSize="25dp"
+                                android:textColor="@color/colorPrimaryDark"
+                                android:layout_width="match_parent"
+                                android:layout_height="192dp"
+                                android:gravity="center" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:gravity="center|top"
+                         android:paddingBottom="20dp"
+                        android:paddingHorizontal="20dp"
+                        android:layout_height="wrap_content">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:orientation="vertical"
+                                android:layout_height="wrap_content">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:orientation="horizontal"
+                                    android:layout_height="wrap_content">
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:textSize="17dp"
+                                        android:layout_weight="1"
+                                        android:textColor="@color/colorAmbar"
+                                        android:gravity="left|center"
+                                        android:text="Mes"/>
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_weight="1.5"
+                                        android:textSize="17dp"
+                                        android:id="@+id/txtMes"
+                                        android:text=" "
+                                        android:gravity="right|center"
+                                        android:layout_height="match_parent" />
+                                </LinearLayout>
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:orientation="horizontal"
+                                    android:layout_height="wrap_content">
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:textSize="17dp"
+                                        android:layout_weight="1"
+                                        android:textColor="@color/colorAmbar"
+                                        android:gravity="left|center"
+                                        android:text="Meta mensual"/>
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_weight="1.5"
+                                        android:textSize="17dp"
+                                        android:id="@+id/txtMeta"
+                                        android:text="S/. 0"
+                                        android:gravity="right|center"
+                                        android:layout_height="match_parent" />
+                                </LinearLayout>
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:orientation="horizontal"
+                                    android:paddingTop="10dp"
+                                    android:layout_height="wrap_content">
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:textSize="17dp"
+                                        android:layout_weight="1"
+                                        android:textColor="@color/colorAmbar"
+                                        android:gravity="left|center"
+                                        android:text="Ventas Realizadas"/>
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_weight="1.5"
+                                        android:textSize="17dp"
+                                        android:text="0"
+                                        android:id="@+id/txtVentasRealizadas"
+                                        android:gravity="right|center"
+                                        android:layout_height="match_parent" />
+                                </LinearLayout>
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:orientation="horizontal"
+                                    android:layout_height="wrap_content">
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:textSize="17dp"
+                                        android:layout_weight="1"
+                                        android:textColor="@color/colorAmbar"
+                                        android:gravity="left|center"
+                                        android:text="Monto Recaudado"/>
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_weight="1.5"
+                                        android:id="@+id/txtMontoRecaudado"
+                                        android:textSize="17dp"
+                                        android:text="S/. 0"
+                                        android:gravity="right|center"
+                                        android:layout_height="match_parent" />
+                                </LinearLayout>
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:orientation="horizontal"
+                                    android:layout_height="wrap_content">
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        android:textSize="17dp"
+                                        android:layout_weight="1"
+                                        android:textColor="@color/colorAmbar"
+                                        android:gravity="left|center"
+                                        android:text="Monto Faltante"/>
+                                    <TextView
+                                        android:layout_width="match_parent"
+                                        android:layout_weight="1.5"
+                                        android:id="@+id/txtMontoFaltante"
+                                        android:textSize="17dp"
+                                        android:text="S/. 0"
+
+                                        android:gravity="right|center"
+                                        android:layout_height="match_parent" />
+                                </LinearLayout>
+                            </LinearLayout>
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/frmNo"
+            android:layout_marginTop="175dp">
+
+            <android.support.design.widget.FloatingActionButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_clear_white_24dp"
+                app:backgroundTint="@color/colorRojo"
+                app:useCompatPadding="true" />
+
+
+        </FrameLayout>
+
+
+    </FrameLayout>

@@ -1,0 +1,622 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\322a4cd050faa1baaf9185ad8d3b5ee5\design-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\18f0120c3a909ff990d138c88c7f9025\android-DecoView-charting-v1.2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\248e01cd30d9be601362f70b1425518c\appcompat-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ef2792c38bcd6fb59aa7bd551a0ea54\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a32adb43a913801a725f3b04269ab9ca\firebase-core-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e00d962915b7bde2e8a338c99e451827\play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c9a3d7104d7f1a70de039849d9f25e27\play-services-places-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\11fb46e8803d12b698d7b21fc2bf614c\firebase-iid-interop-16.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\dd6da8f28bbe66ac2532d0838c2fe2c1\play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b574c0c806aec6feb69749a544d25a63\firebase-measurement-connector-17.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e42190d19e921b4c01db1a8528d114a4\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f9c66ac6bae763f495844ca78b507b00\play-services-stats-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\aa9ac0958693d0043888dcb0adb219a9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f091339fd69954f7c1e919955917d481\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\03c1c39c3c0ebaba679ef0461e7d5f12\recyclerview-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\90bfb415bac7bbb32936c850ae40bc7a\cardview-v7-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6b8de5a81eb09b6718d0f9be985eb402\android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9804c37fda3152b81f91fb70a9da6dbc\animated-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\04728c4b6b97446dcfb0232821ae892a\support-vector-drawable-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\0f872d300b94d5c078cf6d33a84296d2\transition-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\2c8e0302f0b1d47817a706de377b4310\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1cf5bb352024ff1fc4cebd50d0271a46\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\4f58bdc068216aa6e805450f9db541a6\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7c127459d0df55d6127cdc59526ed1b9\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1485647c30f4b4fcdba893a9eb372eff\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\47da4e8e39b43f8b3a4a96e3e3025f71\library-2.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\43bc357cf3361df79c4fa39373705179\library-2.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9b06b3b5a25df26bb4847c94ade3318b\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ab8dc37dd5b63e3a12fdb12eddc37ac\play-services-measurement-base-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a12a053dc2a9e9ba211041eca57b3223\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f7b0686968685f27803e9c270cb4cc3d\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c61f7c6bc455f0e0ea22c854196a9403\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9775279a49fd697376de1128743aa29b\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+	package
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:1-114:12
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:12:5-95
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:12:22-92
+application
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:14:5-112:19
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\18f0120c3a909ff990d138c88c7f9025\android-DecoView-charting-v1.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\18f0120c3a909ff990d138c88c7f9025\android-DecoView-charting-v1.2\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ef2792c38bcd6fb59aa7bd551a0ea54\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ef2792c38bcd6fb59aa7bd551a0ea54\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a32adb43a913801a725f3b04269ab9ca\firebase-core-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a32adb43a913801a725f3b04269ab9ca\firebase-core-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e00d962915b7bde2e8a338c99e451827\play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e00d962915b7bde2e8a338c99e451827\play-services-location-16.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c9a3d7104d7f1a70de039849d9f25e27\play-services-places-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c9a3d7104d7f1a70de039849d9f25e27\play-services-places-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:30:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\11fb46e8803d12b698d7b21fc2bf614c\firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\11fb46e8803d12b698d7b21fc2bf614c\firebase-iid-interop-16.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\dd6da8f28bbe66ac2532d0838c2fe2c1\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\dd6da8f28bbe66ac2532d0838c2fe2c1\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b574c0c806aec6feb69749a544d25a63\firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b574c0c806aec6feb69749a544d25a63\firebase-measurement-connector-17.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e42190d19e921b4c01db1a8528d114a4\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e42190d19e921b4c01db1a8528d114a4\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f9c66ac6bae763f495844ca78b507b00\play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f9c66ac6bae763f495844ca78b507b00\play-services-stats-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\aa9ac0958693d0043888dcb0adb219a9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\aa9ac0958693d0043888dcb0adb219a9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6b8de5a81eb09b6718d0f9be985eb402\android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6b8de5a81eb09b6718d0f9be985eb402\android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ab8dc37dd5b63e3a12fdb12eddc37ac\play-services-measurement-base-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ab8dc37dd5b63e3a12fdb12eddc37ac\play-services-measurement-base-16.0.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:16:9-42
+	android:allowBackup
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:19:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:20:9-22:71
+	android:value
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:22:13-68
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:21:13-58
+activity#com.delcorp.apptiendadelcorp.activity.Location_Cliente
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:23:9-72
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:23:19-60
+activity#com.delcorp.apptiendadelcorp.activity.location
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:24:19-52
+activity#com.delcorp.apptiendadelcorp.activity.MainVendedor
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:25:19-56
+activity#com.delcorp.apptiendadelcorp.activity.ContactoActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:26:9-30:52
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:28:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:27:13-54
+activity#com.delcorp.apptiendadelcorp.activity.AvanceDiarioActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:31:9-35:52
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:34:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:33:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.delcorp.apptiendadelcorp.RegistroUserActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:36:9-39:44
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:38:13-49
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:39:13-41
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:37:13-49
+activity#com.delcorp.apptiendadelcorp.activity.ReporteSugeridoMenorActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:40:9-44:55
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:43:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:42:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:41:13-66
+activity#com.delcorp.apptiendadelcorp.activity.ListaPromocionesActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:45:9-50:55
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:48:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:50:13-52
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:47:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:46:13-62
+activity#com.delcorp.apptiendadelcorp.activity.FullPromoActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:51:9-55:54
+	android:label
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:54:13-62
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:53:13-74
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:55:13-51
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:52:13-55
+activity#com.delcorp.apptiendadelcorp.activity.DetalleListaPedidoActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:56:9-60:55
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:59:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:58:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:60:13-52
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:57:13-64
+activity#com.delcorp.apptiendadelcorp.activity.MetaMensualDialogActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:61:9-72
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:61:19-69
+activity#com.delcorp.apptiendadelcorp.activity.MetaMensualActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:62:9-66:52
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:65:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:64:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:63:13-57
+service#com.delcorp.apptiendadelcorp.service.MyFirebaseMessagingService
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:68:9-72:19
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:68:18-68
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:69:13-71:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:70:25-75
+activity#com.delcorp.apptiendadelcorp.activity.ListaPedidosActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:74:9-78:55
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:77:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:76:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:78:13-52
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:75:13-58
+activity#com.delcorp.apptiendadelcorp.activity.DetalleClienteActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:79:9-69
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:79:19-66
+activity#com.delcorp.apptiendadelcorp.activity.ListaClienteActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:80:9-85:55
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:83:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:85:13-52
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:82:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:84:13-52
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:81:13-58
+activity#com.delcorp.apptiendadelcorp.activity.CartActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:86:9-90:55
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:89:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:88:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:90:13-52
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:87:13-50
+activity#com.delcorp.apptiendadelcorp.activity.LoginActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:91:9-94:44
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:93:13-49
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:94:13-41
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:92:13-51
+activity#com.delcorp.apptiendadelcorp.activity.SplashActivity
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:95:9-105:20
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:98:13-49
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:97:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:99:13-42
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:96:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:100:13-104:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:101:17-69
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:101:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:103:17-77
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:103:27-74
+activitye
+ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:106:9-111:59
+	android:screenOrientation
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:109:13-45
+	android:configChanges
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:108:13-63
+	android:theme
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml:107:13-50
+uses-sdk
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\322a4cd050faa1baaf9185ad8d3b5ee5\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\322a4cd050faa1baaf9185ad8d3b5ee5\design-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\18f0120c3a909ff990d138c88c7f9025\android-DecoView-charting-v1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\18f0120c3a909ff990d138c88c7f9025\android-DecoView-charting-v1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\248e01cd30d9be601362f70b1425518c\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\248e01cd30d9be601362f70b1425518c\appcompat-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ef2792c38bcd6fb59aa7bd551a0ea54\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ef2792c38bcd6fb59aa7bd551a0ea54\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a32adb43a913801a725f3b04269ab9ca\firebase-core-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a32adb43a913801a725f3b04269ab9ca\firebase-core-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e00d962915b7bde2e8a338c99e451827\play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e00d962915b7bde2e8a338c99e451827\play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c9a3d7104d7f1a70de039849d9f25e27\play-services-places-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c9a3d7104d7f1a70de039849d9f25e27\play-services-places-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\11fb46e8803d12b698d7b21fc2bf614c\firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\11fb46e8803d12b698d7b21fc2bf614c\firebase-iid-interop-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\dd6da8f28bbe66ac2532d0838c2fe2c1\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\dd6da8f28bbe66ac2532d0838c2fe2c1\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b574c0c806aec6feb69749a544d25a63\firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b574c0c806aec6feb69749a544d25a63\firebase-measurement-connector-17.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e42190d19e921b4c01db1a8528d114a4\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\e42190d19e921b4c01db1a8528d114a4\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f9c66ac6bae763f495844ca78b507b00\play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f9c66ac6bae763f495844ca78b507b00\play-services-stats-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\aa9ac0958693d0043888dcb0adb219a9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\aa9ac0958693d0043888dcb0adb219a9\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f091339fd69954f7c1e919955917d481\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f091339fd69954f7c1e919955917d481\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\03c1c39c3c0ebaba679ef0461e7d5f12\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\03c1c39c3c0ebaba679ef0461e7d5f12\recyclerview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\90bfb415bac7bbb32936c850ae40bc7a\cardview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\90bfb415bac7bbb32936c850ae40bc7a\cardview-v7-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6b8de5a81eb09b6718d0f9be985eb402\android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6b8de5a81eb09b6718d0f9be985eb402\android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9804c37fda3152b81f91fb70a9da6dbc\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9804c37fda3152b81f91fb70a9da6dbc\animated-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\04728c4b6b97446dcfb0232821ae892a\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\04728c4b6b97446dcfb0232821ae892a\support-vector-drawable-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\0f872d300b94d5c078cf6d33a84296d2\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\0f872d300b94d5c078cf6d33a84296d2\transition-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\2c8e0302f0b1d47817a706de377b4310\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\2c8e0302f0b1d47817a706de377b4310\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1cf5bb352024ff1fc4cebd50d0271a46\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1cf5bb352024ff1fc4cebd50d0271a46\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\4f58bdc068216aa6e805450f9db541a6\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\4f58bdc068216aa6e805450f9db541a6\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7c127459d0df55d6127cdc59526ed1b9\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7c127459d0df55d6127cdc59526ed1b9\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1485647c30f4b4fcdba893a9eb372eff\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1485647c30f4b4fcdba893a9eb372eff\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\47da4e8e39b43f8b3a4a96e3e3025f71\library-2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\47da4e8e39b43f8b3a4a96e3e3025f71\library-2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\43bc357cf3361df79c4fa39373705179\library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\43bc357cf3361df79c4fa39373705179\library-2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9b06b3b5a25df26bb4847c94ade3318b\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9b06b3b5a25df26bb4847c94ade3318b\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ab8dc37dd5b63e3a12fdb12eddc37ac\play-services-measurement-base-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6ab8dc37dd5b63e3a12fdb12eddc37ac\play-services-measurement-base-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a12a053dc2a9e9ba211041eca57b3223\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a12a053dc2a9e9ba211041eca57b3223\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f7b0686968685f27803e9c270cb4cc3d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\f7b0686968685f27803e9c270cb4cc3d\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c61f7c6bc455f0e0ea22c854196a9403\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c61f7c6bc455f0e0ea22c854196a9403\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9775279a49fd697376de1128743aa29b\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\9775279a49fd697376de1128743aa29b\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\AppTiendaDelcorp\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\3b93e2adabebee159cc5c1ed2c99491e\firebase-messaging-17.3.4\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\cc51ee63d9a2bd5cfa9cf3390d783e9b\firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\b4bf35a1a80f84640b6f4326be067f3f\firebase-analytics-impl-16.1.1\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\55807b2b806b64bf47f01289cea691d4\firebase-analytics-16.0.1\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\7e2fec2c780c90e412845f33a4f78095\firebase-iid-17.0.4\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\a45d8382a4d4cfd5dd43b55c48cb619c\firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\acaaede1a6de7688d707780194eb505a\play-services-maps-16.0.0\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\1205ba7e10ff6fa1ce7d516eb793563f\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6b8de5a81eb09b6718d0f9be985eb402\android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\6b8de5a81eb09b6718d0f9be985eb402\android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\c5ad45e01af4e8c833b5f5e5dd4ec24f\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\desarrollador1\.gradle\caches\transforms-2\files-2.1\26c19b26a8bf451e702d18dd29ef66c0\picasso-2.71828\AndroidManifest.xml:9:13-64

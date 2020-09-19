@@ -1,0 +1,89 @@
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\ApplicationInsights.config
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\csc.exe
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\vbc.exe
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\WSTiendaDelcorp.dll.config
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\WSTiendaDelcorp.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\WSTiendaDelcorp.pdb
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.Web.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Newtonsoft.Json.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Net.Http.Formatting.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.WebHost.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.Web.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Newtonsoft.Json.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Net.Http.Formatting.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.WebHost.xml
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\es\System.Web.Http.resources.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\obj\Debug\WSTiendaDelcorp.dll
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\obj\Debug\WSTiendaDelcorp.pdb
+C:\Users\Delcorp\Desktop\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\obj\Debug\WSTiendaDelcorp.csprojResolveAssemblyReference.cache
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\ApplicationInsights.config
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\csc.exe
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\vbc.exe
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\VBCSCompiler.exe
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\WSTiendaDelcorp.dll.config
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\WSTiendaDelcorp.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\WSTiendaDelcorp.pdb
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.Web.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Newtonsoft.Json.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Net.Http.Formatting.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.WebHost.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.Web.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\Newtonsoft.Json.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Net.Http.Formatting.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\System.Web.Http.WebHost.xml
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\es\System.Web.Http.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\obj\Debug\WSTiendaDelcorp.csprojAssemblyReference.cache
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\obj\Debug\WSTiendaDelcorp.csproj.CopyComplete
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\obj\Debug\WSTiendaDelcorp.dll
+C:\Users\desarrollador1\Videos\ARCHIVOS_DESCARGA\X MARKET\X MARKET\proyecto\WSTiendaDelcorp\WSTiendaDelcorp\obj\Debug\WSTiendaDelcorp.pdb
